@@ -1,0 +1,28 @@
+.column-3{
+width: 75%;
+float: left;
+}
+
+.column-2{
+    width: 50%;
+    float: left;
+}
+
+.column-1{
+    width: 25%;
+    float: left;
+}
+button.calc-bo {
+    color: #607D8B;
+    width: 100%;
+    font-size: 32px;
+    background: #ededed;
+    padding: 40px;
+    border: 1px solid #d4d4d4;
+}
+input.result {
+    border: 0px solid;
+    width: 100%;
+    font-size: 20px;
+    padding: 40px;
+}
